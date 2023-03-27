@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Define isWineer function, a solution to the Prime Game problem
+Define isWinner function, a solution to the Prime Game problem
 """
 
 
